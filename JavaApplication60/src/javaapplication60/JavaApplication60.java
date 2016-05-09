@@ -15,7 +15,7 @@ public class JavaApplication60 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //DIt is een git test
+        //Peters verandering
     }
     
 }
